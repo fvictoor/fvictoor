@@ -3,7 +3,7 @@
 
 **Especialista em Qualidade de Software e Testes Automatizados**, apaixonado por tecnologia e resolução de problemas. Tenho mais de 7 anos de experiência na área de TI, com sólida formação em **Engenharia de Software, Gestão de Projetos** e **Gestão da Tecnologia da Informação**.
 
-Atualmente foco meus estudos e práticas em **Robot Framework**, **Playwright**, **Python** e **automação de testes ponta a ponta**, buscando sempre agregar valor aos projetos com entregas eficientes e confiáveis.
+Atualmente foco meus estudos e práticas em **Robot Framework**, **Playwright**, **Cypress**, **Python** e **automação de testes ponta a ponta**, buscando sempre agregar valor aos projetos com entregas eficientes e confiáveis.
 
 ---
 
